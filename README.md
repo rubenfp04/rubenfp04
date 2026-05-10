@@ -120,28 +120,6 @@ const rubén = {
 <!-- SEPARADOR -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🚀 Proyectos Destacados
-
-<div align="center">
-
-<a href="https://github.com/rubenfp04/proyecto1">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rubenfp04&repo=proyecto1&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
-</a>
-<a href="https://github.com/rubenfp04/proyecto2">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rubenfp04&repo=proyecto2&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
-</a>
-<a href="https://github.com/rubenfp04/proyecto3">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rubenfp04&repo=proyecto3&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
-</a>
-<a href="https://github.com/rubenfp04/proyecto4">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rubenfp04&repo=proyecto4&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
-</a>
-
-</div>
-
-<!-- SEPARADOR -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
 ## 🎵 Vibrando con Spotify
 
 <div align="center">
