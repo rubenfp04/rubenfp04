@@ -87,23 +87,23 @@ const rubén = {
 
 <div align="center">
 
-<a href="https://github.com/TU_USUARIO">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff&locale=es&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&locale=es&langs_count=8"/>
+<a href="https://github.com/rubenfp04">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rubenfp04&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff&locale=es&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rubenfp04&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&locale=es&langs_count=8"/>
 </a>
 
 <br/>
 
 <!-- STREAK STATS -->
-<a href="https://github.com/TU_USUARIO">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=8b949e&locale=es" alt="GitHub Streak"/>
+<a href="https://github.com/rubenfp04">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rubenfp04&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=8b949e&locale=es" alt="GitHub Streak"/>
 </a>
 
 <br/>
 
 <!-- ACTIVITY GRAPH -->
-<a href="https://github.com/TU_USUARIO">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TU_USUARIO&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&area_color=58a6ff&hide_border=true&custom_title=Gráfico%20de%20Contribuciones" width="95%" alt="Activity Graph"/>
+<a href="https://github.com/rubenfp04">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rubenfp04&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&area_color=58a6ff&hide_border=true&custom_title=Gráfico%20de%20Contribuciones" width="95%" alt="Activity Graph"/>
 </a>
 
 </div>
@@ -114,7 +114,7 @@ const rubén = {
 ## 🏆 Trofeos de GitHub
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=TU_USUARIO&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" width="95%" alt="Trofeos"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=rubenfp04&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" width="95%" alt="Trofeos"/>
 </div>
 
 <!-- SEPARADOR -->
@@ -124,17 +124,17 @@ const rubén = {
 
 <div align="center">
 
-<a href="https://github.com/TU_USUARIO/proyecto1">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=TU_USUARIO&repo=proyecto1&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
+<a href="https://github.com/rubenfp04/proyecto1">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rubenfp04&repo=proyecto1&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
 </a>
-<a href="https://github.com/TU_USUARIO/proyecto2">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=TU_USUARIO&repo=proyecto2&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
+<a href="https://github.com/rubenfp04/proyecto2">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rubenfp04&repo=proyecto2&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
 </a>
-<a href="https://github.com/TU_USUARIO/proyecto3">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=TU_USUARIO&repo=proyecto3&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
+<a href="https://github.com/rubenfp04/proyecto3">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rubenfp04&repo=proyecto3&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
 </a>
-<a href="https://github.com/TU_USUARIO/proyecto4">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=TU_USUARIO&repo=proyecto4&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
+<a href="https://github.com/rubenfp04/proyecto4">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rubenfp04&repo=proyecto4&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
 </a>
 
 </div>
@@ -181,7 +181,7 @@ const rubén = {
 <br/><br/>
 
 <!-- VISITOR COUNTER -->
-<img src="https://komarev.com/ghpvc/?username=TU_USUARIO&color=58a6ff&style=for-the-badge&label=VISITAS+AL+PERFIL" alt="Visitor Count"/>
+<img src="https://komarev.com/ghpvc/?username=rubenfp04&color=58a6ff&style=for-the-badge&label=VISITAS+AL+PERFIL" alt="Visitor Count"/>
 
 </div>
 
