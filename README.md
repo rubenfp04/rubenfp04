@@ -146,7 +146,7 @@ const rubén = {
 
 <div align="center">
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31b3lwoaf5xrqwkxqq4ppwulaz6y&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=true&bar_color=58a6ff)](https://spotify-github-profile.kittinanx.com/api/view?uid=31b3lwoaf5xrqwkxqq4ppwulaz6y&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31b3lwoaf5xrqwkxqq4ppwulaz6y&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false)](https://github.com/kittinan/spotify-github-profile)
 
 </div>
 
