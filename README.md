@@ -135,19 +135,16 @@ const rubén = {
 
 <div align="center">
 
-<a href="https://linkedin.com/in/tu-usuario" target="_blank">
+<a href="https://linkedin.com/in/rubferpal" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-<a href="mailto:tu@email.com">
+<a href="mailto:ruben@kynetio.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
-<a href="https://tu-portfolio.com" target="_blank">
+<a href="" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio"/>
 </a>
-<a href="https://twitter.com/tu-usuario" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-</a>
-<a href="https://discord.gg/tu-servidor" target="_blank">
+<a href="https://discord.com/users/600407058487050257" target="_blank">
   <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
 </a>
 
